@@ -1,0 +1,14 @@
+streamlit
+langchain-anthropic
+fastapi
+python-dotenv
+beautifulsoup4
+lxml
+ollama
+elevenlabs
+aiolimiter
+langgraph
+mcp
+langchain-mcp-adapters
+gtts
+anthropic
