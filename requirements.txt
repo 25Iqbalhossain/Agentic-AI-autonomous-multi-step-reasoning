@@ -1,14 +1,36 @@
-streamlit
-langchain-anthropic
+# Core framework
 fastapi
+uvicorn
+
+# Environment and config
 python-dotenv
+
+# Web scraping and HTML parsing
 beautifulsoup4
 lxml
-ollama
-elevenlabs
-aiolimiter
+requests
+
+# LLM orchestration
+langchain
+langchain-anthropic
+langchain-mcp-adapters
 langgraph
 mcp
-langchain-mcp-adapters
-gtts
+
+# LLM providers
+groq
+ollama
 anthropic
+
+# Rate limiting
+aiolimiter
+
+# Text-to-speech
+elevenlabs
+gtts
+
+# Optional frontend
+streamlit
+
+# Dev tools
+httpx
