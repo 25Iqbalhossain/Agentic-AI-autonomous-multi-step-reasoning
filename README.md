@@ -61,12 +61,12 @@ python -m venv venv.
 source venv/Scripts/activate  # or use . venv/bin/activate on Unix.
 pip install -r requirements.txt.
 
-##📣 Credits
+## 📣 Credits
 Built by Iqbal Hossain
 Inspired by agentic AI workflows and voice-first UX
 
 
-##📜 License
+## 📜 License
 MIT License
 
 Let me know if you want to add badges, a demo video link, or GitHub Actions for auto-deployment. This README sets the tone for a serious, modular, and voice-powered AI project.
